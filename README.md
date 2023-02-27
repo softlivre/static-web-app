@@ -3,4 +3,4 @@ It has a working CI/CD pipeline.
 
 ![alt text](https://softlivre.com.br/static/static-web-app.jpeg)
 
-![alt text](https://github.com/softlivre/static-web-app/static-web-app.jpeg?raw=true)
+![alt text](https://github.com/softlivre/static-web-app/blob/main/static-web-app.jpeg?raw=true)
